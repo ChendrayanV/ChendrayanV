@@ -16,9 +16,14 @@ Chendrayan Venkatesan, a.k.a Chen V, works at Shell India Markets Private Limite
 
 ## Skills
 
-PowerShell, Power Automate, Azure Functions, SharePoint, Azure DevOps
+Azure, PowerShell, Power Automate, SharePoint, Azure DevOps
 
+## Social Networking
 
-## Gists
+It's in the order :) 
 
-{% gist 9c2d8fae6c6f56820a61e24421f70fca %}
+| Social Network | Id   |
+| -------------- | ---- |
+| LinkedIn       |  ![ChenrayanV](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png?raw=true)    |
+| Twitter        |  ![ChenrayanV](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png?raw=true)     |
+| Facebook       |  ![ChenrayanV](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png?raw=true)    |

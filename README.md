@@ -22,5 +22,3 @@ Azure, PowerShell, Power Automate, SharePoint, Azure DevOps
 
 Feel free to reach me on [LinkedIn](https://in.linkedin.com/in/chendrayanv), [Twitter](https://twitter.com/ChendrayanV), or [Facebook](https://www.facebook.com/ChendrayanV). Yes, it's my preferred order. 
 
-## Gist
-{{<gist ChendrayanV 9c2d8fae6c6f56820a61e24421f70fca>}}

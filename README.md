@@ -20,10 +20,4 @@ Azure, PowerShell, Power Automate, SharePoint, Azure DevOps
 
 ## Social Networking
 
-It's in the order :) 
-
-| Social Network | Id   |
-| -------------- | ---- |
-| LinkedIn       |  ![ChenrayanV](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png?raw=true)    |
-| Twitter        |  ![ChenrayanV](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png?raw=true)     |
-| Facebook       |  ![ChenrayanV](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png?raw=true)    |
+Feel free to reach me on [LinkedIn](https://in.linkedin.com/in/chendrayanv), [Twitter](https://twitter.com/ChendrayanV), or [Facebook](https://www.facebook.com/ChendrayanV). Yes, it's my preferred order. 

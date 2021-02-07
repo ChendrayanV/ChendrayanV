@@ -6,6 +6,13 @@ Chendrayan Venkatesan, a.k.a Chen V, works at Shell India Markets Private Limite
 
 ## Professional Experience
 
+| Company Name                        | Experience                    | Role                             |
+| ----------------------------------- | ----------------------------- | -------------------------------- |
+| Shell India Markets Private Limited | September 2018 - Till Date    | IT Advisor, Azure Cloud          |
+| Tata Consultancy Services           | January 2008 - September 2018 | Assistant Consultant, SharePoint |
+| FLSmidth                            | July 2007 - December 2008     | IT Operations                    |
+| Sutherland Global Services          | June 2005 - June 2007         | Sr. Technical Support Executive  |
+| Wipro Infotech                      | January 2005 - June 2005      | Assistant Trainee                |
 
 ## Skills
 

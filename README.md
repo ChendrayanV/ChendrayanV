@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, It's me Chendrayan Venkatesan 👋
+---
+
+[![Visits Badge](https://badges.pufler.dev/visits/ChendrayanV/git-badges)](https://badges.pufler.dev)
+
+
+Chendrayan Venkatesan, a.k.a Chen V, works at Shell India Markets Private Limited as an IT Advisor for Azure Cloud, subject matter experts in Azure DevOps space, and responsible for developing, maintaining, and delivering the automation and integration solutions. 
 
 <!--
 **ChendrayanV/ChendrayanV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

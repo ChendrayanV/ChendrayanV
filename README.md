@@ -14,4 +14,4 @@ PowerShell, Power Automate, Azure Functions, SharePoint, Azure DevOps
 
 ## Gists
 
-{% 9c2d8fae6c6f56820a61e24421f70fca %}
+{% gist 9c2d8fae6c6f56820a61e24421f70fca %}

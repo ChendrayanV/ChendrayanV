@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/13730675?v=4" alt="Chendrayan Venkatesan" width="180" />
+  <img src="profile-flip.svg" alt="Chendrayan Venkatesan" width="180" />
 </p>
 
 <h1 align="center">Chendrayan Venkatesan</h1>

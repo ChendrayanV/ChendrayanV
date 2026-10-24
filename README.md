@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Chendrayan Venkatesan</h1>
-<p align="center"><b>Azure Delivery Lead · DevSecOps · Infrastructure Automation</b><br/>22 years in IT · 10× Microsoft MVP (Alumni) · Brentwood, United Kingdom</p>
+<p align="center"><b>Azure Delivery · DevSecOps · Infrastructure Automation</b><br/>22 years in IT · 10× Microsoft MVP (Alumni) · Brentwood, United Kingdom</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chendrayanv/"><img src="https://img.shields.io/badge/LinkedIn-chendrayanv-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -27,7 +27,7 @@ Technology Lead whose core strength is **Azure delivery**: taking cloud platform
 | Impact | Result |
 | --- | --- |
 | **Faster delivery** | Built a DevSecOps pipeline that cut feature deployment time by **50%** and reduced security breaches by **20%** |
-| **Automation at scale** | Automated Azure provisioning with Terraform and Ansible, cutting new environment build time by **75%** |
+| **Automation at scale** | Automated Azure provisioning with Terraform, cutting new environment build time by **75%** |
 | **Cost reduction** | Led an engineering team that designed and delivered a new Azure platform, lowering operational costs |
 | **Governance & compliance** | Designed cloud security policy and a compliance framework with Azure Policy across the cloud estate |
 | **Cloud migration** | Led cross-functional teams migrating on-premises infrastructure to Azure |
@@ -42,7 +42,7 @@ Technology Lead whose core strength is **Azure delivery**: taking cloud platform
 | **Azure Delivery** | Platform design and delivery, landing zones, AKS, Serverless, Azure DevOps, Azure CLI, Azure REST API |
 | **DevSecOps** | CI/CD pipelines, security in the SDLC, Azure Policy, Defender for Cloud, Microsoft Sentinel |
 | **Automation** | PowerShell (expert), Bash, Python, REST, GraphQL |
-| **Infrastructure as Code** | Terraform, Bicep, ARM Templates, Ansible |
+| **Infrastructure as Code** | Terraform, Bicep, ARM Templates |
 | **Observability & Data** | Azure Monitor, Datadog, Azure Data Explorer, KQL, Power BI |
 | **Microsoft 365** | SharePoint (administrator background), Microsoft 365, Power Platform |
 

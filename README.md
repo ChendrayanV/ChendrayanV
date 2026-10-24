@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Chendrayan Venkatesan</h1>
-<p align="center"><b>Azure Delivery Lead · DevSecOps · PowerShell Automation</b><br/>22 years in IT · 10× Microsoft MVP (Alumni) · Brentwood, United Kingdom</p>
+<p align="center"><b>Azure Delivery Lead · DevSecOps · Infrastructure Automation</b><br/>22 years in IT · 10× Microsoft MVP (Alumni) · Brentwood, United Kingdom</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chendrayanv/"><img src="https://img.shields.io/badge/LinkedIn-chendrayanv-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

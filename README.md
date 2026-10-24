@@ -10,6 +10,7 @@
   <a href="https://twitter.com/chendrayanv"><img src="https://img.shields.io/badge/X-@chendrayanv-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.howdykloudy.in/"><img src="https://img.shields.io/badge/Blog-howdykloudy.in-FF6F00?style=flat" alt="Blog" /></a>
   <img src="https://komarev.com/ghpvc/?username=ChendrayanV&label=Profile%20views&color=0078D4&style=flat" alt="Profile views" />
+  <a href="https://github.com/ChendrayanV/ChendrayanV/raw/main/assets/Chendrayan_Venkatesan_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-D32F2F?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
 </p>
 
 ---

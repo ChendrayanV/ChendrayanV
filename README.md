@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.jpg" alt="Chendrayan Venkatesan" width="180" />
+  <img src="https://avatars.githubusercontent.com/u/13730675?v=4" alt="Chendrayan Venkatesan" width="180" />
 </p>
 
 <h1 align="center">Chendrayan Venkatesan</h1>
@@ -65,7 +65,7 @@ Technology Lead whose core strength is **Azure delivery**: taking cloud platform
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.shell.com/" title="Shell · Bengaluru"><img src="https://www.google.com/s2/favicons?domain=shell.com&sz=128" alt="Shell" height="48" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tcs.com/" title="Tata Consultancy Services · Bengaluru, Netherlands, Florida"><img src="https://www.tcs.com/content/dam/global-tcs/en/images/who-we-are/media-kit/logo-rgb-black.png" alt="Tata Consultancy Services" height="40" /></a>
+  <a href="https://www.tcs.com/" title="Tata Consultancy Services · Bengaluru, Netherlands, Florida"><img src="https://cdn.simpleicons.org/tcs" alt="Tata Consultancy Services" height="48" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.flsmidth.com/" title="FLS (formerly FLSmidth) · Chennai"><img src="https://www.google.com/s2/favicons?domain=flsmidth.com&sz=128" alt="FLS" height="48" /></a>
   &nbsp;&nbsp;&nbsp;

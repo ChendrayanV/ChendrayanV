@@ -125,18 +125,6 @@ Show-AACDashboard
 
 ---
 
-## 🎓 Education
-
-<p>
-  <img src="https://img.shields.io/badge/University_of_Oxford-Advanced_Diploma-002147?style=for-the-badge" alt="University of Oxford" />
-</p>
-
-- **University of Oxford** – Advanced Diploma, IT Systems Analysis and Design *(completed)*
-  Systems development life cycle, data-driven and procedural techniques, data organisation, objects and architectures
-- **The Salem Polytechnic College, India** – Diploma in Computer Technology (90.83%)
-
----
-
 ## 🏆 Recognition
 
 <p>

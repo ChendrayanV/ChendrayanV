@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="profile-flip.svg" alt="Chendrayan Venkatesan" width="180" />
+  
+  <img src="profile-flip.svg" width="200" alt="Azure.Admin.Console: a profile picture that flips to Azure, Reports, Lens, M365, Audit, Entra and Logs icons">
 </p>
 
 <h1 align="center">Chendrayan Venkatesan</h1>
